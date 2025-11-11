@@ -2,6 +2,7 @@
 
 # Alex Méndez
 ### Front-End Developer & UI/UX Specialist
+<img src="https://media.tenor.com/7oLD2X4UQMAAAAAi/glitterypopcorn-wizard.gif" width="120" />
 
 </div>
 
