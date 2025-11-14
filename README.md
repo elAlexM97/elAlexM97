@@ -38,7 +38,7 @@ I also have experience with general programming languages and a strong backgroun
 ### ⚙️ Programming & Back-End
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,kotlin,cpp,nodejs,express,php,django" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,php,kotlin,cpp,nodejs,express,django" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ I also have experience with general programming languages and a strong backgroun
 ### 🎨 Design Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=ai,ps,figma,xd" />
 </p>
 
 ---
